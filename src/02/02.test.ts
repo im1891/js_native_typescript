@@ -7,6 +7,7 @@ beforeEach(() => {
         title: "New York",
         houses: [
             {
+                id: 1,
                 buildedAt: 2012,
                 repaired: false,
                 address: {
@@ -17,6 +18,7 @@ beforeEach(() => {
                 }
             },
             {
+                id: 2,
                 buildedAt: 2008,
                 repaired: false,
                 address: {
@@ -27,6 +29,7 @@ beforeEach(() => {
                 }
             },
             {
+                id: 3,
                 buildedAt: 2020,
                 repaired: false,
                 address: {
